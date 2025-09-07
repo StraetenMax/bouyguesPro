@@ -2,6 +2,7 @@
 <mjml>
   <mj-head>
     <mj-title>Commandez le Honor 400 Lite à 1 €</mj-title>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"></mj-font>
     <mj-raw>
       <meta charset="UTF-8">
       <meta name='color-scheme' content='light'/>
@@ -12,15 +13,15 @@
       <meta name="format-detection" content="email=no"/>
     </mj-raw>
     <mj-attributes>
-      <mj-all font-family="Arial, Helvetica, sans-serif"/>
-      <mj-class name="T30-700" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="700"/>
-      <mj-class name="T25-700" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="25px" line-height="40px" font-weight="700"/>
-      <mj-class name="T15-600" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="20px" font-weight="600"/>
-      <mj-class name="T14-700" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="16px" font-weight="700"/>
-      <mj-class name="T13-700" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="16px" font-weight="700"/>
-      <mj-class name="T12-700" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="14px" font-weight="700"/>
-      <mj-class name="T10-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="10px" line-height="12px" font-weight="400"/>
-      <mj-button padding="0" inner-padding="10px 65px" border-radius="0px" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="20px" font-weight="700" color="#ffffff" background-color="#FF7900"></mj-button>
+      <mj-all font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif"/>
+      <mj-class name="T30-700" font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="700"/>
+      <mj-class name="T25-700" font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="25px" line-height="40px" font-weight="700"/>
+      <mj-class name="T15-600" font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="20px" font-weight="600"/>
+      <mj-class name="T14-700" font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="16px" font-weight="700"/>
+      <mj-class name="T13-700" font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="16px" font-weight="700"/>
+      <mj-class name="T12-700" font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="14px" font-weight="700"/>
+      <mj-class name="T10-400" font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="10px" line-height="12px" font-weight="400"/>
+      <mj-button padding="0" inner-padding="10px 65px" border-radius="0px" font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="20px" font-weight="700" color="#ffffff" background-color="#FF7900"></mj-button>
       <mj-class name="bgT0" background-color="#000000"></mj-class>
       <mj-class name="cT0" color="#000000"/>
       <mj-class name="cTW" color="#ffffff"/>
@@ -38,7 +39,7 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="images/logoBouyguesvertical.png" alt=""/>
+        <mj-image src="images/logoBouygueshorizontal.png" alt=""/>
       </mj-column>
       <mj-column>
         <mj-text>contactez-nous </mj-text>
@@ -50,47 +51,47 @@
     <mj-section>
       <mj-column>
         <mj-button>Nouveau</mj-button>
-        <mj-text>Honor 400 Lite</mj-text>
-        <mj-image src="images/Honor400.png" alt=""/>
+        <mj-text align="center">Honor 400 Lite</mj-text>
+        <mj-image width="244px" src="images/Honor400.png" alt=""/>
       </mj-column>
       <mj-column>
         <mj-button>Privilèges Entreprises Inclus</mj-button>
-        <mj-text>1 € (1) HT </mj-text>
-        <mj-text>avec le forfait Neo illimité(2)</mj-text>
-        <mj-text>Capacité de stockage : 256 Go </mj-text>
+        <mj-text align="center">1 € (1) HT </mj-text>
+        <mj-text align="center">avec le forfait Neo illimité(2)</mj-text>
+        <mj-text align="center">Capacité de stockage : 256 Go </mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column>
-        <mj-text>Investissez dans la performance.</mj-text>
-        <mj-text>Un smartphone pro, rentable et accessible !</mj-text>
+      <mj-column width="100%">
+        <mj-text align="center">Investissez dans la performance.</mj-text>
+        <mj-text align="center">Un smartphone pro, rentable et accessible !</mj-text>
       </mj-column>
-      <mj-column>
-        <mj-image src="images/pictoIA.png" alt=""/>
-        <mj-text>Magic portal</mj-text>
-        <mj-text>Entourez une info, l'intelligence artificielle vous guide : partage, recherche, organisation... tout devient plus simple et rapide.</mj-text>
+      <mj-column width="50%">
+        <mj-image width="35px" src="images/pictoIA.png" alt=""/>
+        <mj-text align="center">Magic portal</mj-text>
+        <mj-text align="center">Entourez une info, l'intelligence artificielle vous guide : partage, recherche, organisation... tout devient plus simple et rapide.</mj-text>
       </mj-column>
-      <mj-column>
-        <mj-image src="images/pictoMobileResistantAuxChocs.png" alt=""/>
-        <mj-text>Ultra résistant, ultra pro</mj-text>
-        <mj-text>Il résiste aux éclaboussures, à l'eau et à la poussière (certifié ip64) pour vous suivre partout même sur le terrain.</mj-text>
+      <mj-column width="50%">
+        <mj-image width="48px" src="images/pictoMobileResistantAuxChocs.png" alt=""/>
+        <mj-text align="center">Ultra résistant, ultra pro</mj-text>
+        <mj-text align="center">Il résiste aux éclaboussures, à l'eau et à la poussière (certifié ip64) pour vous suivre partout même sur le terrain.</mj-text>
       </mj-column>
-      <mj-column>
-        <mj-image src="images/pictoForfaitCarteSIM.png" alt=""/>
-        <mj-text>256 Go de stockage</mj-text>
-        <mj-text>Performance durable. Accès rapide à vos fichiers et applis, pour une productivité sans ralentissement.</mj-text>
+      <mj-column width="50%">
+        <mj-image width="48px" src="images/pictoForfaitCarteSIM.png" alt=""/>
+        <mj-text align="center">256 Go de stockage</mj-text>
+        <mj-text align="center">Performance durable. Accès rapide à vos fichiers et applis, pour une productivité sans ralentissement.</mj-text>
       </mj-column>
-      <mj-column>
-        <mj-image src="images/pictoMobile.png" alt=""/>
-        <mj-text>Design léger et élégant</mj-text>
-        <mj-text>Un smartphone ultra-léger, idéal pour travailler confortablement en déplacement pro.</mj-text>
+      <mj-column width="50%">
+        <mj-image width="48px" src="images/pictoMobile.png" alt=""/>
+        <mj-text align="center">Design léger et élégant</mj-text>
+        <mj-text align="center">Un smartphone ultra-léger, idéal pour travailler confortablement en déplacement pro.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column>
-        <mj-image src="images/pictoLogo.png" alt=""/>
-        <mj-text>Et si votre forfait vous en offrait plus ?</mj-text>
+      <mj-column width="100%">
+        <mj-image width="48px" src="images/pictoLogo.png" alt=""/>
+        <mj-text align="center">Et si votre forfait vous en offrait plus ?</mj-text>
         <mj-text>Data illimitée en France (3) et 60 Go en Europe</mj-text>
         <mj-text>Appels, SMS & MMS illimités depuis et vers France</mj-text>
         <mj-text>Compatibilité 5G</mj-text>
@@ -100,12 +101,12 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text>Parce que votre activité mérite, elle aussi, une touche d'exception.</mj-text>
+        <mj-text padding="0" align="center">Parce que votre activité mérite, elle aussi, une touche d'exception.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="images/logoBouyguesVertical.png" alt=""/>
+        <mj-image src="images/logoBouyguesvertical.png" alt=""/>
       </mj-column>
       <mj-column>
         <mj-text>Toutes nos actualités</mj-text>
@@ -119,7 +120,7 @@
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column>
+      <mj-column width="100%">
         <mj-text>DAS Honor 400 Lite Tête : 0,85 W/kg, Tronc : 1,30 W/kg, Membres : 2,95 W/kg.</mj-text>
         <mj-text>(1) Offre valable jusqu’au 08/10/2025 pour toute nouvelle souscription à un forfait Neo Illimité/Intégral/Monde.</mj-text>
         <mj-text>(2) Engagement 24 ou 36 mois.</mj-text>
@@ -129,10 +130,10 @@
         <mj-text>(6) Internet Prioritaire : en cas d’affluence sur le réseau propre 3G/4G et 5G de Bouygues Telecom, votre accès Internet mobile est priorisé.</mj-text>
         <mj-text>* Prix d'un appel local. Du lundi au vendredi, de 08h30 à 18h30.</mj-text>
       </mj-column>
-      <mj-column>
+      <mj-column width="100%">
         <mj-divider> </mj-divider>
       </mj-column>
-      <mj-column>
+      <mj-column width="100%">
         <mj-text>Vous recevez ce courriel car vous êtes inscrit(e) dans la base de données de Bouygues Telecom en tant que contact professionnel.</mj-text>
         <mj-text>Vos données de contact sont enregistrées dans un fichier informatisé et traitées sur la base légale de l’intérêt légitime, pour vous adresser des propositions sur nos offres par courriel. Elles sont communiquées à nos services marketing et informatique ainsi qu’à nos sous-traitants en charge des courriels. Elles sont traitées dans l’Union Européenne et aux Etats-Unis en application de clauses contractuelles types de la Commission Européenne.</mj-text>
         <mj-text>Pour modifier vos préférences de contact ou vous désabonner, cliquez ici.</mj-text>
