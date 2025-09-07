@@ -47,5 +47,19 @@
         <mj-button>0971112617*</mj-button>
       </mj-column>
     </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-button>Nouveau</mj-button>
+        <mj-text>Honor 400 Lite</mj-text>
+        <mj-image src="images/Honor400.png" alt=""/>
+      </mj-column>
+      <mj-column>
+        <mj-button>Privilèges Entreprises Inclus</mj-button>
+        <mj-text>1 € (1) HT </mj-text>
+        <mj-text>avec le forfait Neo illimité(2)</mj-text>
+        <mj-text>Capacité de stockage : 256 Go </mj-text>
+        <mj-button>J'en profite</mj-button>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
