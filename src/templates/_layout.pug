@@ -1,0 +1,46 @@
+mjml
+    //- Head
+    mj-head
+        mj-title Commandez le Honor 400 Lite à 1 €
+        mj-raw.
+            <meta charset="UTF-8">
+            <meta name='color-scheme' content='light'/>
+            <meta name='supported-color-schemes' content='light'/>
+            <meta name="format-detection" content="telephone=no"/>
+            <meta name="format-detection" content="date=no"/>
+            <meta name="format-detection" content="address=no"/>
+            <meta name="format-detection" content="email=no"/>
+        mj-attributes
+            mj-all(font-family='Arial, Helvetica, sans-serif')/
+            mj-class(name='T30-700' font-family='Arial, Helvetica, sans-serif' font-style="normal" font-size='30px' line-height='40px' font-weight='700')/
+            mj-class(name='T25-700' font-family='Arial, Helvetica, sans-serif' font-style="normal" font-size='25px' line-height='40px' font-weight='700')/
+            mj-class(name='T15-600' font-family='Arial, Helvetica, sans-serif' font-style="normal" font-size='15px' line-height='20px' font-weight='600')/
+            mj-class(name='T14-700' font-family='Arial, Helvetica, sans-serif' font-style="normal" font-size='14px' line-height='16px' font-weight='700')/
+            mj-class(name='T13-700' font-family='Arial, Helvetica, sans-serif' font-style="normal" font-size='13px' line-height='16px' font-weight='700')/
+            mj-class(name='T12-700' font-family='Arial, Helvetica, sans-serif' font-style="normal" font-size='12px' line-height='14px' font-weight='700')/
+            mj-class(name='T10-400' font-family='Arial, Helvetica, sans-serif' font-style="normal" font-size='10px' line-height='12px' font-weight='400')/
+            mj-button(padding="0" inner-padding="10px 65px" border-radius="0px" font-family='Arial, Helvetica, sans-serif' font-style="normal" font-size='15px' line-height='20px' font-weight='700' color="#ffffff" background-color="#FF7900")
+            mj-class(name="bgT0" background-color="#000000")
+            mj-class(name="cT0" color="#000000")/
+            mj-class(name="cTW" color="#ffffff")/
+            mj-class(name="bgW" background-color="#ffffff")/
+            //- Colors
+            mj-class(name="cO" color="#FF7900")/
+            mj-class(name="bgO" background-color="#FF7900")/
+        mj-breakpoint(width="480px")
+    //- Body
+    mj-body(background-color='#ffffff' width="640px")
+        //- content
+        block content
+        //- bloc header
+        block header
+            include ../includes/_header
+        //- bloc Promotion
+        block promotion
+            include ../includes/_promotion
+        //- bloc arguments
+        block arguments
+            include ../includes/_arguments
+        //- bloc footer
+        block footer
+            include ../includes/_footer
