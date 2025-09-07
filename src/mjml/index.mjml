@@ -98,5 +98,50 @@
         <mj-button>J'en profite</mj-button>
       </mj-column>
     </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Parce que votre activité mérite, elle aussi, une touche d'exception.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="images/logoBouyguesVertical.png" alt=""/>
+      </mj-column>
+      <mj-column>
+        <mj-text>Toutes nos actualités</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-social>
+          <mj-social-element src="images/iconFacebook.png" href="#"></mj-social-element>
+          <mj-social-element src="images/iconYoutube.png" href="#"></mj-social-element>
+          <mj-social-element src="images/logMagbusiness.png" href="#"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>DAS Honor 400 Lite Tête : 0,85 W/kg, Tronc : 1,30 W/kg, Membres : 2,95 W/kg.</mj-text>
+        <mj-text>(1) Offre valable jusqu’au 08/10/2025 pour toute nouvelle souscription à un forfait Neo Illimité/Intégral/Monde.</mj-text>
+        <mj-text>(2) Engagement 24 ou 36 mois.</mj-text>
+        <mj-text>(3) Accès Data Mobile illimité en France métropolitaine. Usage strictement réservé à une personne physique : peer-to-peer prohibé, utilisation interdite avec équipement comme un routeur.</mj-text>
+        <mj-text>(4) Garantie 3 ans en cas de panne pour tous les téléphones neufs ou reconditionnés achetés chez Bouygues Telecom.</mj-text>
+        <mj-text>(5) Échange sur site à J+1 en France métropolitaine si la demande est réalisée avant 16h30 du lundi au vendredi (hors jours fériés). Échange du téléphone par un modèle neuf ou reconditionné de grade A/A+, identique ou avec des fonctionnalités équivalentes dans la mesure des stocks.</mj-text>
+        <mj-text>(6) Internet Prioritaire : en cas d’affluence sur le réseau propre 3G/4G et 5G de Bouygues Telecom, votre accès Internet mobile est priorisé.</mj-text>
+        <mj-text>* Prix d'un appel local. Du lundi au vendredi, de 08h30 à 18h30.</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-divider> </mj-divider>
+      </mj-column>
+      <mj-column>
+        <mj-text>Vous recevez ce courriel car vous êtes inscrit(e) dans la base de données de Bouygues Telecom en tant que contact professionnel.</mj-text>
+        <mj-text>Vos données de contact sont enregistrées dans un fichier informatisé et traitées sur la base légale de l’intérêt légitime, pour vous adresser des propositions sur nos offres par courriel. Elles sont communiquées à nos services marketing et informatique ainsi qu’à nos sous-traitants en charge des courriels. Elles sont traitées dans l’Union Européenne et aux Etats-Unis en application de clauses contractuelles types de la Commission Européenne.</mj-text>
+        <mj-text>Pour modifier vos préférences de contact ou vous désabonner, cliquez ici.</mj-text>
+        <mj-text>Vous pouvez accéder aux données vous concernant, les rectifier, les faire effacer, exercer un droit à la limitation du traitement en cliquant ici.</mj-text>
+        <mj-text>Si vous estimez, après nous avoir contactés, que vos droits "Informatique et Libertés" ne sont pas respectés, vous pouvez adresser une réclamation à la CNIL.</mj-text>
+        <mj-text>Pour en savoir plus sur les traitements de données mis en œuvre par Bouygues Telecom, veuillez consulter notre Politique de confidentialité.</mj-text>
+        <mj-text>Nous recueillons des statistiques sur l'ouverture des courriers électroniques et les clics sur leur contenu en utilisant les technologies standards du marché (pixels) pour nous permettre de nous assurer de la réception de nos e-mails et d'en améliorer le contenu.</mj-text>
+        <mj-text>© BOUYGUES TELECOM - Société Anonyme au capital de 929 207 595,48 € - SIREN : 397 480 930 - R.C.S. Nanterre - Siège Social : Le Technopôle, 13-15 avenue du Maréchal Juin - 92360 Meudon-la-Forêt</mj-text>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
