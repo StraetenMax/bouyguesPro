@@ -1,0 +1,51 @@
+
+<mjml>
+  <mj-head>
+    <mj-title>Commandez le Honor 400 Lite à 1 €</mj-title>
+    <mj-raw>
+      <meta charset="UTF-8">
+      <meta name='color-scheme' content='light'/>
+      <meta name='supported-color-schemes' content='light'/>
+      <meta name="format-detection" content="telephone=no"/>
+      <meta name="format-detection" content="date=no"/>
+      <meta name="format-detection" content="address=no"/>
+      <meta name="format-detection" content="email=no"/>
+    </mj-raw>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif"/>
+      <mj-class name="T30-700" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="700"/>
+      <mj-class name="T25-700" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="25px" line-height="40px" font-weight="700"/>
+      <mj-class name="T15-600" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="20px" font-weight="600"/>
+      <mj-class name="T14-700" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="16px" font-weight="700"/>
+      <mj-class name="T13-700" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="16px" font-weight="700"/>
+      <mj-class name="T12-700" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="14px" font-weight="700"/>
+      <mj-class name="T10-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="10px" line-height="12px" font-weight="400"/>
+      <mj-button padding="0" inner-padding="10px 65px" border-radius="0px" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="20px" font-weight="700" color="#ffffff" background-color="#FF7900"></mj-button>
+      <mj-class name="bgT0" background-color="#000000"></mj-class>
+      <mj-class name="cT0" color="#000000"/>
+      <mj-class name="cTW" color="#ffffff"/>
+      <mj-class name="bgW" background-color="#ffffff"/>
+      <mj-class name="cO" color="#FF7900"/>
+      <mj-class name="bgO" background-color="#FF7900"/>
+    </mj-attributes>
+    <mj-breakpoint width="480px"></mj-breakpoint>
+  </mj-head>
+  <mj-body background-color="#ffffff" width="640px">
+    <mj-section padding="6px 0px 5px 0px">
+      <mj-column>
+        <mj-text align="center" padding="0" mj-class="T12-700" color="#000000">Donnons vie à vos projets, prenez rendez-vous</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="images/logoBouyguesvertical.png" alt=""/>
+      </mj-column>
+      <mj-column>
+        <mj-text>contactez-nous </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-button>0971112617*</mj-button>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
