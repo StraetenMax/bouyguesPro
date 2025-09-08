@@ -14,20 +14,17 @@
     </mj-raw>
     <mj-attributes>
       <mj-all font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif"/>
-      <mj-class name="T30-700" font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="700"/>
-      <mj-class name="T25-700" font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="25px" line-height="40px" font-weight="700"/>
-      <mj-class name="T15-600" font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="20px" font-weight="600"/>
-      <mj-class name="T14-700" font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="16px" font-weight="700"/>
-      <mj-class name="T13-700" font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="16px" font-weight="700"/>
-      <mj-class name="T12-700" font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="14px" font-weight="700"/>
-      <mj-class name="T10-400" font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="10px" line-height="12px" font-weight="400"/>
-      <mj-button padding="0" inner-padding="10px 65px" border-radius="0px" font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="20px" font-weight="700" color="#ffffff" background-color="#FF7900"></mj-button>
+      <mj-class name="T21-700" font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="21px" line-height="26px" font-weight="700"/>
+      <mj-class name="T18-700" font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="18px" line-height="23px" font-weight="700"/>
+      <mj-class name="T16-400" font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="22px" font-weight="400"/>
+      <mj-class name="T15-400" font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="22px" font-weight="400"/>
       <mj-class name="bgT0" background-color="#000000"></mj-class>
       <mj-class name="cT0" color="#000000"/>
       <mj-class name="cTW" color="#ffffff"/>
       <mj-class name="bgW" background-color="#ffffff"/>
       <mj-class name="cO" color="#FF7900"/>
       <mj-class name="bgO" background-color="#FF7900"/>
+      <mj-class name="bgBf" background-color="#00263C"></mj-class>
     </mj-attributes>
     <mj-breakpoint width="480px"></mj-breakpoint>
   </mj-head>
@@ -49,53 +46,74 @@
       </mj-column>
     </mj-section>
     <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center" mj-class="T21-700">L'IA à chaque clic</mj-text>
+      </mj-column>
       <mj-column>
         <mj-button>Nouveau</mj-button>
-        <mj-text align="center">Honor 400 Lite</mj-text>
+        <mj-text align="center" mj-class="T18-700">Honor 400 Lite</mj-text>
         <mj-image width="244px" src="images/Honor400.png" alt=""/>
       </mj-column>
       <mj-column>
         <mj-button>Privilèges Entreprises Inclus</mj-button>
         <mj-text align="center">1 € (1) HT </mj-text>
-        <mj-text align="center">avec le forfait Neo illimité(2)</mj-text>
-        <mj-text align="center">Capacité de stockage : 256 Go </mj-text>
+        <mj-text align="center" mj-class="T16-400">avec le forfait Neo illimité(2)</mj-text>
+        <mj-text align="center" mj-class="T16-400">Capacité de stockage : 256 Go </mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section mj-class="bgBf">
       <mj-column width="100%">
-        <mj-text align="center">Investissez dans la performance.</mj-text>
-        <mj-text align="center">Un smartphone pro, rentable et accessible !</mj-text>
+        <mj-text padding="0" align="center" mj-class="T18-700 cTW">Investissez dans la performance.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T18-700 cTW">Un smartphone pro, rentable et accessible !</mj-text>
       </mj-column>
       <mj-column width="50%">
         <mj-image width="35px" src="images/pictoIA.png" alt=""/>
-        <mj-text align="center">Magic portal</mj-text>
-        <mj-text align="center">Entourez une info, l'intelligence artificielle vous guide : partage, recherche, organisation... tout devient plus simple et rapide.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T16-400 cTW" font-weight="700">Magic portal</mj-text>
+        <mj-text padding="0" align="center" mj-class="T16-400 cTW">Entourez une info, l'intelligence artificielle vous guide : partage, recherche, organisation... tout devient plus simple et rapide.</mj-text>
       </mj-column>
       <mj-column width="50%">
         <mj-image width="48px" src="images/pictoMobileResistantAuxChocs.png" alt=""/>
-        <mj-text align="center">Ultra résistant, ultra pro</mj-text>
-        <mj-text align="center">Il résiste aux éclaboussures, à l'eau et à la poussière (certifié ip64) pour vous suivre partout même sur le terrain.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T16-400 cTW" font-weight="700">Ultra résistant, ultra pro</mj-text>
+        <mj-text padding="0" align="center" mj-class="T16-400 cTW">Il résiste aux éclaboussures, à l'eau et à la poussière (certifié ip64) pour vous suivre partout même sur le terrain.</mj-text>
       </mj-column>
       <mj-column width="50%">
         <mj-image width="48px" src="images/pictoForfaitCarteSIM.png" alt=""/>
-        <mj-text align="center">256 Go de stockage</mj-text>
-        <mj-text align="center">Performance durable. Accès rapide à vos fichiers et applis, pour une productivité sans ralentissement.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T16-400 cTW" font-weight="700">256 Go de stockage</mj-text>
+        <mj-text padding="0" align="center" mj-class="T16-400 cTW">Performance durable. Accès rapide à vos fichiers et applis, pour une productivité sans ralentissement.</mj-text>
       </mj-column>
       <mj-column width="50%">
         <mj-image width="48px" src="images/pictoMobile.png" alt=""/>
-        <mj-text align="center">Design léger et élégant</mj-text>
-        <mj-text align="center">Un smartphone ultra-léger, idéal pour travailler confortablement en déplacement pro.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T16-400 cTW" font-weight="700">Design léger et élégant</mj-text>
+        <mj-text padding="0" align="center" mj-class="T16-400 cTW">Un smartphone ultra-léger, idéal pour travailler confortablement en déplacement pro.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
-      <mj-column width="100%">
+    <mj-section mj-class="bgBf">
+      <mj-column width="100%" mj-class="bgW" border-radius="20px">
         <mj-image width="48px" src="images/pictoLogo.png" alt=""/>
         <mj-text align="center">Et si votre forfait vous en offrait plus ?</mj-text>
-        <mj-text>Data illimitée en France (3) et 60 Go en Europe</mj-text>
-        <mj-text>Appels, SMS & MMS illimités depuis et vers France</mj-text>
-        <mj-text>Compatibilité 5G</mj-text>
-        <mj-text>Privilèges Entreprises inclus : Garantie 3 ans (4), échange sur site à J+1(5), connexion internet mobile prioritaire(6) en cas de saturation du réseau.</mj-text>
+        <mj-table>
+          <tr>
+            <td>
+              <p>Data illimitée en France (3) et 60 Go en Europe</p>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p>Appels, SMS & MMS illimités depuis et vers France</p>
+            </td>
+          </tr>
+          <tr> 
+            <td> 
+              <p>Compatibilité 5G</p>
+            </td>
+          </tr>
+          <tr>
+            <td> 
+              <p>Privilèges Entreprises inclus : Garantie 3 ans (4), échange sur site à J+1(5), connexion internet mobile prioritaire(6) en cas de saturation du réseau.</p>
+            </td>
+          </tr>
+        </mj-table>
         <mj-button>J'en profite</mj-button>
       </mj-column>
     </mj-section>
