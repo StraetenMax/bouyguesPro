@@ -22,8 +22,8 @@
       <mj-class name="cT0" color="#000000"/>
       <mj-class name="cTW" color="#ffffff"/>
       <mj-class name="bgW" background-color="#ffffff"/>
-      <mj-class name="cO" color="#FF7900"/>
-      <mj-class name="bgO" background-color="#FF7900"/>
+      <mj-class name="cO" color="#CC4E0A"/>
+      <mj-class name="bgO" background-color="#CC4E0A"/>
       <mj-class name="bgBf" background-color="#00263C"></mj-class>
     </mj-attributes>
     <mj-breakpoint width="480px"></mj-breakpoint>
@@ -118,7 +118,7 @@
             </td>
           </tr>
         </mj-table>
-        <mj-button>J'en profite</mj-button>
+        <mj-button padding="15px 0" height="45px" mj-class="T16-400 bgO cTW" font-weight="700">J'en profite</mj-button>
       </mj-column>
     </mj-section>
     <mj-section>
