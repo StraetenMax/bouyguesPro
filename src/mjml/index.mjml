@@ -30,10 +30,11 @@
     </mj-attributes>
     <mj-breakpoint width="545px"></mj-breakpoint>
   </mj-head>
-  <mj-body background-color="#ffffff" width="640px">
-    <mj-section padding="6px 0px 5px 0px">
-      <mj-column>
-        <mj-text align="center" padding="0" mj-class="T12-700" color="#000000">Donnons vie à vos projets, prenez rendez-vous</mj-text>
+  <mj-body background-color="#f6f6f6" width="640px">
+    <mj-section padding="0px" padding-top="20px">
+      <mj-column padding="10px" padding-bottom="13px">
+        <mj-text align="center" padding="0" mj-class="T12-400" color="#b5b5b5">Avec notre Forfait Neo Illimité : appels, data, Privilèges Entreprises inclus</mj-text>
+        <mj-text align="center" padding="0" mj-class="T12-400" color="#b5b5b5">Version en ligne.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
