@@ -57,12 +57,32 @@
         <mj-text padding="10px 0" align="center" mj-class="T18-700">Honor 400 Lite</mj-text>
         <mj-image padding="0" width="244px" src="images/Honor400.png" alt=""/>
       </mj-column>
-      <mj-column width="55%" padding="0 20px" mj-class="bgW" border-radius="20px">
-        <mj-button border-radius="50px" border="1px solid #109DB9" color="#109DB9" background-color="transparent">Privilèges Entreprises Inclus</mj-button>
-        <mj-text align="center">1 € (1) HT </mj-text>
-        <mj-text padding="0" align="center" mj-class="T16-400">avec le forfait Neo illimité(2)</mj-text>
-        <mj-text padding="0" align="center" mj-class="T16-400">Capacité de stockage : 256 Go </mj-text>
-        <mj-button padding="0px" height="45px" mj-class="T16-400 bgO cTW" font-weight="700">J'en profite</mj-button>
+      <mj-column width="55%" padding="30px 20px" mj-class="bgW" border-radius="20px">
+        <mj-button padding="0" border-radius="50px" border="1px solid #109DB9" color="#109DB9" background-color="transparent">Privilèges Entreprises Inclus</mj-button>
+        <mj-table align="center">
+          <tr>
+            <td align="right">
+              <p style="font-size:60px;font-weight:700">1 </p>
+            </td>
+            <td>
+              <table style="padding:0">
+                <tr>
+                  <td style="padding:0">   
+                    <p style="margin:0;padding:0px;font-size:28px">€ (1)</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding:0">
+                    <p style="margin:0;padding:0px;font-size:18px">HT </p>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-text padding="0" padding-top="10px" align="center" mj-class="T16-400">avec le forfait Neo illimité(2)</mj-text>
+        <mj-text padding="0" padding-bottom="20px" align="center" mj-class="T16-400">Capacité de stockage : 256 Go </mj-text>
+        <mj-button padding="0" height="45px" mj-class="T16-400 bgO cTW" font-weight="700">J'en profite</mj-button>
       </mj-column>
     </mj-section>
     <mj-section mj-class="bgBf" padding="0px">
