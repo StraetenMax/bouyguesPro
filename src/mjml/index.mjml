@@ -20,6 +20,7 @@
       <mj-class name="T15-400" font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="22px" font-weight="400"/>
       <mj-class name="T14-700" font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="16px" font-weight="700"/>
       <mj-class name="T12-400" font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="16px" font-weight="400"/>
+      <mj-class name="T13-400" font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="18px" font-weight="400"/>
       <mj-class name="cT1" color="#00263C"></mj-class>
       <mj-class name="bgT0" background-color="#000000"></mj-class>
       <mj-class name="cT0" color="#000000"/>
@@ -38,15 +39,15 @@
         <mj-text align="center" padding="0" mj-class="T12-400" color="#b5b5b5">Version en ligne.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section mj-class="bgW">
-      <mj-column>
-        <mj-image src="images/logoBouygueshorizontal.png" alt=""/>
+    <mj-section mj-class="bgW" padding="20px">
+      <mj-column width="53%" vertical-align="middle">
+        <mj-image padding="0" width="179px" src="images/logoBouygueshorizontal.png" alt=""/>
       </mj-column>
-      <mj-column>
-        <mj-text>contactez-nous </mj-text>
+      <mj-column width="22%" vertical-align="middle">
+        <mj-text padding="13px 0" align="center" mj-class="T13-400 cT1">contactez-nous </mj-text>
       </mj-column>
-      <mj-column>
-        <mj-button>0971112617*</mj-button>
+      <mj-column width="25%" vertical-align="middle">
+        <mj-button padding="0" mj-class="M16-400 bgT1 cTW" font-weight="700">09&nbsp;71&nbsp;11&nbsp;26&nbsp;17*</mj-button>
       </mj-column>
     </mj-section>
     <mj-section padding="0 20px" padding-bottom="30px" background-color="#E6E9EC">
