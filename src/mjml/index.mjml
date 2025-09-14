@@ -18,6 +18,7 @@
       <mj-class name="T18-700" font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="18px" line-height="23px" font-weight="700"/>
       <mj-class name="T16-400" font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="22px" font-weight="400"/>
       <mj-class name="T15-400" font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="22px" font-weight="400"/>
+      <mj-class name="T14-700" font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="16px" font-weight="700"/>
       <mj-class name="T12-400" font-family="&quot;Poppins&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="16px" font-weight="400"/>
       <mj-class name="cT1" color="#00263C"></mj-class>
       <mj-class name="bgT0" background-color="#000000"></mj-class>
@@ -151,23 +152,27 @@
     </mj-section>
     <mj-section padding="30px 0" mj-class="bgW">
       <mj-column>
-        <mj-text padding="0" align="center" mj-class="T16-400">Parce que votre activité mérite, elle aussi, une touche d'exception.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T16-400 cT1">Parce que votre activité mérite, elle aussi, une touche d'exception.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#F6F6F6">
-      <mj-column>
-        <mj-image width="75px" src="images/logoBouyguesvertical.png" alt=""/>
+    <mj-section background-color="#F6F6F6" padding="30px 64px 0px 32px">
+      <mj-column vertical-align="middle" width="40%">
+        <mj-image padding="0" padding-bottom="6px" width="75px" src="images/logoBouyguesvertical.png" alt=""/>
       </mj-column>
-      <mj-column>
-        <mj-text>Toutes nos actualités</mj-text>
+      <mj-column vertical-align="middle" width="30%">
+        <mj-text align="center" padding="0" padding-bottom="6px" mj-class="T14-700 cT1">Toutes nos actualités</mj-text>
       </mj-column>
-      <mj-column>
-        <mj-social padding="0" mode="horizontal">
-          <mj-social-element src="images/iconFacebook.png" href="#"></mj-social-element>
-          <mj-social-element src="images/iconYoutube.png" href="#"></mj-social-element>
-          <mj-social-element icon-size="100px" src="images/logoMagbusiness.png" href="#"></mj-social-element>
-        </mj-social>
-      </mj-column>
+      <mj-group width="30%">
+        <mj-column vertical-align="middle" width="60px">
+          <mj-social align="right" padding="0" padding-bottom="6px" mode="horizontal">
+            <mj-social-element icon-size="22px" src="images/iconFacebook.png" href="#"></mj-social-element>
+            <mj-social-element icon-size="22px" src="images/iconYoutube.png" href="#"></mj-social-element>
+          </mj-social>
+        </mj-column>
+        <mj-column vertical-align="middle" width="100px">
+          <mj-image align="left" padding="0" padding-bottom="6px" width="100px" src="images/logoMagbusiness.png" href="#"></mj-image>
+        </mj-column>
+      </mj-group>
     </mj-section>
     <mj-section padding="30px 32px">
       <mj-column>
